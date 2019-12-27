@@ -1,0 +1,8 @@
+C:\Users\denjos\source\repos\RazorPages.Model\bin\Debug\netstandard2.0\RazorPages.Model.deps.json
+C:\Users\denjos\source\repos\RazorPages.Model\bin\Debug\netstandard2.0\RazorPages.Model.dll
+C:\Users\denjos\source\repos\RazorPages.Model\bin\Debug\netstandard2.0\RazorPages.Model.pdb
+C:\Users\denjos\source\repos\RazorPages.Model\obj\Debug\netstandard2.0\RazorPages.Model.csprojAssemblyReference.cache
+C:\Users\denjos\source\repos\RazorPages.Model\obj\Debug\netstandard2.0\RazorPages.Model.AssemblyInfoInputs.cache
+C:\Users\denjos\source\repos\RazorPages.Model\obj\Debug\netstandard2.0\RazorPages.Model.AssemblyInfo.cs
+C:\Users\denjos\source\repos\RazorPages.Model\obj\Debug\netstandard2.0\RazorPages.Model.dll
+C:\Users\denjos\source\repos\RazorPages.Model\obj\Debug\netstandard2.0\RazorPages.Model.pdb

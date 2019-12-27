@@ -1,0 +1,11 @@
+C:\Users\denjos\source\repos\RazorPages.Services\bin\Debug\netstandard2.0\RazorPages.Model.dll
+C:\Users\denjos\source\repos\RazorPages.Services\obj\Debug\netstandard2.0\RazorPages.Services.csprojAssemblyReference.cache
+C:\Users\denjos\source\repos\RazorPages.Services\obj\Debug\netstandard2.0\RazorPages.Services.AssemblyInfoInputs.cache
+C:\Users\denjos\source\repos\RazorPages.Services\obj\Debug\netstandard2.0\RazorPages.Services.AssemblyInfo.cs
+C:\Users\denjos\source\repos\RazorPages.Services\bin\Debug\netstandard2.0\RazorPages.Services.deps.json
+C:\Users\denjos\source\repos\RazorPages.Services\bin\Debug\netstandard2.0\RazorPages.Services.dll
+C:\Users\denjos\source\repos\RazorPages.Services\bin\Debug\netstandard2.0\RazorPages.Services.pdb
+C:\Users\denjos\source\repos\RazorPages.Services\bin\Debug\netstandard2.0\RazorPages.Model.pdb
+C:\Users\denjos\source\repos\RazorPages.Services\obj\Debug\netstandard2.0\RazorPages.Services.csproj.CopyComplete
+C:\Users\denjos\source\repos\RazorPages.Services\obj\Debug\netstandard2.0\RazorPages.Services.dll
+C:\Users\denjos\source\repos\RazorPages.Services\obj\Debug\netstandard2.0\RazorPages.Services.pdb
