@@ -15,7 +15,10 @@ namespace RazorPages.Services
         }
         public IEnumerable<Employee> GetAllEmployess()
         {
-            return null;
+            var lista = new List<Employee>();
+            lista.Add(new Employee() { Id = 1,Name="oscar" })  ;
+
+            return lista;
         }
     }
 }

@@ -23,6 +23,7 @@ namespace RazorPages.Pages.Employees
         public string titulo { get; set; }
         public void OnGet()
         {
+            var lista = _repo.GetAllEmployess();
             titulo = "";
         }
     }

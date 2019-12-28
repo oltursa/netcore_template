@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\denjos\\source\\repos\\RazorPages.Model\\RazorPages.Model.csproj",
+      "projectUniqueName": "C:\\Users\\denjos\\source\\repos\\tmp\\RazorPages.Model\\RazorPages.Model.csproj",
       "projectName": "RazorPages.Model",
-      "projectPath": "C:\\Users\\denjos\\source\\repos\\RazorPages.Model\\RazorPages.Model.csproj",
+      "projectPath": "C:\\Users\\denjos\\source\\repos\\tmp\\RazorPages.Model\\RazorPages.Model.csproj",
       "packagesPath": "C:\\Users\\denjos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\denjos\\source\\repos\\RazorPages.Model\\obj\\",
+      "outputPath": "C:\\Users\\denjos\\source\\repos\\tmp\\RazorPages.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

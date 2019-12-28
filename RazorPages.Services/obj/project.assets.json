@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\denjos\\source\\repos\\RazorPages.Services\\RazorPages.Services.csproj",
+      "projectUniqueName": "C:\\Users\\denjos\\source\\repos\\tmp\\RazorPages.Services\\RazorPages.Services.csproj",
       "projectName": "RazorPages.Services",
-      "projectPath": "C:\\Users\\denjos\\source\\repos\\RazorPages.Services\\RazorPages.Services.csproj",
+      "projectPath": "C:\\Users\\denjos\\source\\repos\\tmp\\RazorPages.Services\\RazorPages.Services.csproj",
       "packagesPath": "C:\\Users\\denjos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\denjos\\source\\repos\\RazorPages.Services\\obj\\",
+      "outputPath": "C:\\Users\\denjos\\source\\repos\\tmp\\RazorPages.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -465,8 +465,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\denjos\\source\\repos\\RazorPages.Model\\RazorPages.Model.csproj": {
-              "projectPath": "C:\\Users\\denjos\\source\\repos\\RazorPages.Model\\RazorPages.Model.csproj"
+            "C:\\Users\\denjos\\source\\repos\\tmp\\RazorPages.Model\\RazorPages.Model.csproj": {
+              "projectPath": "C:\\Users\\denjos\\source\\repos\\tmp\\RazorPages.Model\\RazorPages.Model.csproj"
             }
           }
         }
